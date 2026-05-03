@@ -1,6 +1,6 @@
 package files;
 
-import java.io.File;
+import java.io.File;   
 
 public class DeleteFile {
     public static void main(String[] args) {
@@ -12,5 +12,4 @@ public class DeleteFile {
             System.out.println("Delete failed");
         }
     }
-    
 }
